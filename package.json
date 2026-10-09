@@ -1,0 +1,1 @@
+{"name":"corner-check","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"node server.js","start":"node server.js","test":"node --test src/insights.test.js","build":"node scripts/build.js"}}
